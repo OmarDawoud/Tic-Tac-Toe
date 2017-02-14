@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE: Tic Tac Toe
+PURPOSE OF PROJECT: Demonstrate Java GUI skills to create a simple game of Tic tac toe
 VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+HOW TO START THIS PROJECT: Load project into blueJ. Compile and create a new TicTacToe();
+AUTHORS: Omar Dawoud
