@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TicTacToe()
+comment0.text=\ \r\n\ Constructs\ a\ new\ Tic-Tac-Toe\ board,\ including\ the\ frame,\ menu\ with\ a\ list\ of\ 2\ options.\r\n\ The\ constructor\ initializes\ the\ board,panel\ font\ and\ menu\ etc.\r\n\ Variables\ such\ as\ player\ and\ tie(to\ check\ if\ nobody\ wins)\ are\ also\ initialized.\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=row\ col
+comment3.target=boolean\ haveWinner(int,\ int)
+comment3.text=\r\n\ Returns\ true\ if\ filling\ the\ given\ square\ gives\ us\ a\ winner,\ and\ false\r\n\ otherwise.\r\n\r\n\ @param\ int\ row\ of\ square\ just\ set\r\n\ @param\ int\ col\ of\ square\ just\ set\r\n\ \r\n\ @return\ true\ if\ we\ have\ a\ winner,\ false\ otherwise\r\n
+numComments=4
